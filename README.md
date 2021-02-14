@@ -1,3 +1,3 @@
 # shell-reverse
-uma reverse shell simples ae feita em C
+Reverse-shell C
 DISCORD:Kanui#0105
